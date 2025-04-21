@@ -25,7 +25,7 @@ Or build it yourself from source:
 ```bash
 git clone https://github.com/YOUR_USERNAME/CSVocalize.git
 ```
-Open the solution in Visual Studio 2022+ and run AutoCSVTranslator.sln
+Open the solution in Visual Studio 2022+ and run CSVocalize.sln
 
 ### 🛠 How to Use
 ```
