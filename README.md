@@ -23,7 +23,7 @@ Or build it yourself from source:
 
 ### 2. Build from Source
 ```bash
-git clone https://github.com/YOUR_USERNAME/CSVocalize.git
+git clone https://github.com/sakne/CSVocalize.git
 ```
 Open the solution in Visual Studio 2022+ and run CSVocalize.sln
 
